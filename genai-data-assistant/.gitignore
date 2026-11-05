@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.pytest_cache/
+.ruff_cache/
+.coverage
+eval/report.json
+.streamlit/secrets.toml
+.DS_Store
+.idea/
+.vscode/
